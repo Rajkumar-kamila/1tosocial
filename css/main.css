@@ -3328,3 +3328,24 @@ li[data-toggle=hover] .dropdown-menu {
 
 
 /*# sourceMappingURL=main.css.map */
+.d-none.d-lg-block.col-lg-6.align-self-end.text-right {
+    place-content: center;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 65%;
+}
+#option1{
+    width: 100%;
+    position: absolute;
+    padding: 9px;
+    left: 0px;
+    opacity: 0;
+}
+#option2{
+    width: 100%;
+    position: absolute;
+    padding: 9px;
+    left: 0px;
+    opacity: 0;
+}
